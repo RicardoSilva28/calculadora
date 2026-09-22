@@ -66,6 +66,8 @@ A calculadora possui uma interface simples, com um display para mostrar os valor
 
 O objetivo deste projeto é praticar e desenvolver conhecimentos em **HTML, CSS e principalmente JavaScript**, servindo como um projeto de estudo para evolução na programação.
 
+Projeto publicado com GitHub Pages.git add .
+
 ---
 
 ### 👨‍💻 Autor
